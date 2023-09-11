@@ -8,3 +8,5 @@
   * https://redcap.vanderbilt.edu/consortium/videoplayer.php?video=repeating_forms_events01.mp4&title=REDCap:%20Repeating%20Instruments%20and%20Events
 * Longitudinal (good when repetition intervals are predefined)
   * https://www.youtube.com/watch?v=YbvLKIC1l3o
+* Custom labels
+  * https://www.youtube.com/watch?v=s_BIGWhzt4s
